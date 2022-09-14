@@ -5,4 +5,4 @@
 
 `mbb.ipynb` calculates $L_{\mathrm{IR}}$ and $M_{\mathrm{dust}}$ by rescaling the modified blackbody to the observed 1.2 mm ALMA data.
 
-`SfrCalculate.ipynb` calculates $SFR_{\mathrm{UV+IR}}$ and displays different properties in 2-D planes.
+[`SfrCalculate.ipynb`](https://github.com/hunyjm12/Master_Project_ALCS/blob/main/SfrCalculate.ipynb) calculates $SFR_{\mathrm{UV+IR}}$ and displays different properties in 2-D planes.
