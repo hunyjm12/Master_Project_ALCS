@@ -1,4 +1,4 @@
-# Master_Project_ALCS
+# Master_Project_ALMA Lensing Cluster Survey
 [`a370_skyimage.ipynb`](https://github.com/hunyjm12/Master_Project_ALCS/blob/main/a370_skyimage.ipynb) shows how I matched optical/NIR sources with ALMA-detected sources, so as to conduct further analysis.
 
 [`MatchAndPlot.ipynb`](https://github.com/hunyjm12/Master_Project_ALCS/blob/main/MatchAndPlot.py) carries out match across all 33 lensing clusters and displays their properties deduced from optical/NIR SED fitting.
