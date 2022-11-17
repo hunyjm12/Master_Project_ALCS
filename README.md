@@ -1,4 +1,4 @@
-# Master's Project: [ALMA Lensing Cluster Survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract)
+# Master's Project: Dusty Galaxies in [ALMA Lensing Cluster Survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract)
 
 This project makes use of optical/NIR data from HST and *Spitzer* along with ALMA 1.2 mm data to study galaxies which are magnified by lensing clusters. This unique phenomenon allows us to explore those faint distant galaxies.
 
@@ -10,4 +10,4 @@ This project makes use of optical/NIR data from HST and *Spitzer* along with ALM
 
 [`SfrCalculate.ipynb`](https://github.com/hunyjm12/Master_Project_ALCS/blob/main/SfrCalculate.ipynb) calculates $SFR_{\mathrm{UV+IR}}$ and displays different properties in 2-D planes.
 
-[My Master's thesis](https://drive.google.com/file/d/14LDebriG7b2aEqj90HhS4Usiixjc1wkU/view?usp=sharing)
+[**My Master's thesis**](https://drive.google.com/file/d/14LDebriG7b2aEqj90HhS4Usiixjc1wkU/view?usp=sharing)
