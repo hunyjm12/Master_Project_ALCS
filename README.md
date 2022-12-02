@@ -1,4 +1,4 @@
-# Master's Project: Dusty Galaxies in [ALMA Lensing Cluster Survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract)
+# Master's Project: Dusty Galaxies in [ALMA Lensing Cluster Survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract) (ALCS)
 
 This project makes use of optical/NIR data from HST and *Spitzer* along with ALMA 1.2 mm data to study galaxies which are magnified by lensing clusters. This unique phenomenon allows us to explore those faint distant galaxies.
 
